@@ -6,17 +6,13 @@
 
 0 Bounce, 1 Charge, Back of Site, Top of right window of right most bar
 
-**B Main Rush Spot**
+**Back of B Main Rush Spot**
 
-2 Bounce, 3 Charge, Back of Site, In the Window
-
-**B Main Rush Spot**
-
-0 Bounce, ,Heaven right side near generator, Arrow Tip of Tree
+1 Bounce, 1 Charge, Stairs, Right Corner of Red House
 
 **Top of Gelato**
 
-1 Bounce, 1 Charge, 2 Stairs, Right Corner of Red House
+0 Bounce, ,Heaven right side near generator, Arrow Tip of Tree
 
 # Retake/Attack Arrows
 
