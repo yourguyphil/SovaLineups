@@ -1,26 +1,35 @@
-### Defence
+### Defence 
+
+**Remember you can drone mid from under vent ropes!**
 
 # Initial Arrows
 
-**B Main Rush Spot**
+**A Main Rush Spot**
 
-0 Bounce, 1 Charge, Back of Site, Top of right window of right most bar
+0 Bounce, 2 Change, Hevean corner,Hud dart first line on light post
 
-**B Main Rush Spot**
+0 Bounce, 1 Charge, Heavan corner, peek the brown line 
 
-2 Bounce, 3 Charge, Back of Site, In the Window
+# Defence Darts
 
-**B Main Rush Spot**
+1 Bounce, 2 Charge, heaven corner, Bottom of peek top box
 
-0 Bounce, ,Heaven right side near generator, Arrow Tip of Tree
+# Attack
 
-**Top of Gelato**
+**A Site**
 
-1 Bounce, 1 Charge, 2 Stairs, Right Corner of Red House
+0 Bounce, 2 Charge, A pillar
 
-# Retake/Attack Arrows
+0 Bounce, 2 Charge, First Balcony inner corner
 
-**All of A**
+**B Site**
 
-0 Bounce, 2 Charge, Back right corner of Gelato, bottom right of blue explosion box
+?????
 
+# Post Plant
+
+A Default
+
+0 Bounce, 2 Charge, Flower box right corner, Left click dot Under A Letter
+
+B Default
